@@ -1,3 +1,3 @@
-names = ["Git","HTML","CSS"]
+names = ["Git","HTML","CSS",26]
 
-puts names[1]
+puts names[3]
